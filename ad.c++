@@ -7,7 +7,7 @@ struct node{
 };
 int main(){
     node* n1;
-    n1->data=34;
+    n1->data=34;e
 
-    cout<<n1->data;
-}
+    cout<<n1->data;fsd dfe
+} e
